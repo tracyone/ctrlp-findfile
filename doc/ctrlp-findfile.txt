@@ -1,0 +1,33 @@
+ctrlp-findfile.txt         *ctrlp-findfile.txt* *ctrlp-findfile* *CtrlPFindFile*
+
+================================================================================
+CONTENTS                                                 *ctrlp-findfile-contents*
+
+1. helm-find-files for ctrlp............|ctrlp-findfile-helm-find-files_for_ctrlp|
+2. Usage....................................................|ctrlp-findfile-usage|
+3. Links....................................................|ctrlp-findfile-links|
+
+================================================================================
+HELM-FIND-FILES FOR CTRLP               *ctrlp-findfile-helm-find-files_for_ctrlp*
+
+Do you remember  keymapping in spacemacs (https://github.com/syl20bnr/spacemacs) ?
+
+[](https://asciinema.org/a/zQGgv22DzBHZIb7dzy62WUVYv)
+
+================================================================================
+USAGE                                                       *ctrlp-findfile-usage*
+>
+    :CtrlPFindFile
+<
+
+Open the selected files or directories in various ways
+
+*   open to the right,
+*   open above,
+*   open in new tab
+
+================================================================================
+LINKS                                                       *ctrlp-findfile-links*
+
+This plugin is split from vinux (https://github.com/tracyone/vinux)
+
